@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Backup outputs and archives
+backups/
+test_backup/
+*.zip
+*.tar.gz
+
+# OS specific
+.DS_Store
+Thumbs.db
